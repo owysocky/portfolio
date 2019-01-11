@@ -2,7 +2,6 @@
   font-size: 200%;
 }
 
-
 .frame{
   margin-left: 10px;
   margin-right: 10px;
@@ -12,4 +11,17 @@
   float: right;
   font-size: 80%;
   font-weight: bold;
+}
+
+.font-bold{
+  font-weight: bold;
+}
+
+.contact-float ul{
+  list-style: none;
+  padding-left:0;
+}
+
+.float-details p{
+  float: right;
 }
