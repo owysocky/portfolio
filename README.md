@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a portfolio website to provide all the needed information to my future employer_
+_This is a portfolio website to provide all the needed information to my future employer._
 
 ## Setup instructions
 
@@ -22,6 +22,5 @@ _To see the web page follow the link https://github.com/owysocky/portfolio and e
 
 ### License
 MIT
-**
 
 Copyright (c) 2019 **_Olha Wysocky_**
