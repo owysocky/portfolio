@@ -19,9 +19,13 @@
 
 .contact-float ul{
   list-style: none;
-  padding-left:0;
+  padding-left: 0;
 }
 
 .float-details p{
   float: right;
 }
+
+/* .same-length{
+  height: 350px;
+} */
