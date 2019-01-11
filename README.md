@@ -10,7 +10,7 @@ _This is a portfolio website to provide all the needed information to my future 
 
 ## Setup instructions
 
-_To see the web page follow the link https://github.com/owysocky/portfolio and enjoy._
+_To see the web page follow the link https://owysocky.github.io/portfolio/ and enjoy._
 
 
 ## Technologies Used
