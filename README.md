@@ -9,8 +9,12 @@
 _This is a portfolio website to provide all the needed information to my future employer._
 
 ## Setup instructions
+* _On GitHub, navigate to the main page of the repository._
 
-_To see the web page follow the link https://owysocky.github.io/portfolio/ and enjoy._
+* _Under the repository name, click "Clone or download"_
+* _To clone the repository in Desktop choose "Open in Desktop" or you may download the ZIP file._
+* _For more information, see "Cloning a repository from GitHub to GitHub Desktop."_
+* _To see the web page follow the link https://owysocky.github.io/portfolio/ and enjoy._
 
 
 ## Technologies Used
