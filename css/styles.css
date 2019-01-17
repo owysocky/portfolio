@@ -2,6 +2,12 @@
   font-size: 200%;
 }
 
+.jumbotron h1{
+  padding: 3px;
+  border-radius: 10px;
+  border: solid #E6E6E6;
+}
+
 .frame{
   margin-left: 10px;
   margin-right: 10px;
